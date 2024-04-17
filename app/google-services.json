@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401924900161",
+    "project_id": "crud-e9e6c",
+    "storage_bucket": "crud-e9e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401924900161:android:7a678acc869adf8ba10dc0",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.proyectocrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1USDM7xg7G4-QLB8LP-zMkyoiBND55Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
